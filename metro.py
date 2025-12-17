@@ -193,4 +193,3 @@ with col2:
 
     else:
         st.info("👈 Book a ticket to see it here.")
-ss
